@@ -1,7 +1,7 @@
 ---
 title: Update Hugo In Netlify
 date: 2018-08-19T20:56:59.238Z
-draft: false
+draft: true
 categories: Coding
 tags:
   - Netlify
