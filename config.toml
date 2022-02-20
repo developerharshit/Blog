@@ -1,4 +1,4 @@
-BaseURL = ""
+BaseURL = "https://zealous-snyder-fdeeca.netlify.app/"
 theme = "casper-two"
 languageCode    = "en-US"
 disqusShortname = "blog-chrisstayte"
