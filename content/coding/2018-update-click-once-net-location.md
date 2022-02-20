@@ -1,7 +1,7 @@
 ---
 title: Update Click Once .Net Location
 date: '2018-05-24'
-draft: true
+draft: false
 categories: Code
 tags:
   - .Net
