@@ -1,7 +1,7 @@
 ---
 title: Netlify CMS
 date: '2018-06-19'
-draft: true
+draft: false
 categories: Coding
 tags:
   - Netlify
